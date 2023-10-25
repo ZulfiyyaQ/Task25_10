@@ -1,0 +1,17 @@
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\task25_10.exe
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\task25_10.deps.json
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\task25_10.runtimeconfig.json
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\task25_10.dll
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\task25_10.pdb
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.AssemblyInfo.cs
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.csproj.CopyComplete
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.dll
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\refint\task25_10.dll
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.pdb
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\task25_10.genruntimeconfig.cache
+C:\Users\Asus\Desktop\tasks\task25_10\task25_10\obj\Debug\net7.0\ref\task25_10.dll
